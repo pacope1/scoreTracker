@@ -1,0 +1,44 @@
+C:\Users\Philip Cope\source\repos\SoccerApp\SoccerApp\obj\Debug\SoccerApp.vbprojResolveAssemblyReference.cache
+C:\Users\Philip Cope\source\repos\SoccerApp\SoccerApp\obj\Debug\SoccerApp.PlayerNames.resources
+C:\Users\Philip Cope\source\repos\SoccerApp\SoccerApp\obj\Debug\SoccerApp.TeamCreation.resources
+C:\Users\Philip Cope\source\repos\SoccerApp\SoccerApp\obj\Debug\SoccerApp.Resources.resources
+C:\Users\Philip Cope\source\repos\SoccerApp\SoccerApp\obj\Debug\SoccerApp.vbproj.GenerateResource.Cache
+C:\Users\Philip Cope\source\repos\SoccerApp\SoccerApp\obj\Debug\SoccerApp.vbproj.CoreCompileInputs.cache
+C:\Users\Philip Cope\source\repos\SoccerApp\SoccerApp\obj\Debug\SoccerApp.ScoreBoard.resources
+C:\Users\Philip Cope\source\repos\SoccerApp\SoccerApp\bin\Debug\SoccerApp.exe.config
+C:\Users\Philip Cope\source\repos\SoccerApp\SoccerApp\bin\Debug\SoccerApp.exe
+C:\Users\Philip Cope\source\repos\SoccerApp\SoccerApp\bin\Debug\SoccerApp.pdb
+C:\Users\Philip Cope\source\repos\SoccerApp\SoccerApp\bin\Debug\SoccerApp.xml
+C:\Users\Philip Cope\source\repos\SoccerApp\SoccerApp\obj\Debug\SoccerApp.Alert.resources
+C:\Users\Philip Cope\source\repos\SoccerApp\SoccerApp\obj\Debug\SoccerApp.exe
+C:\Users\Philip Cope\source\repos\SoccerApp\SoccerApp\obj\Debug\SoccerApp.xml
+C:\Users\Philip Cope\source\repos\SoccerApp\SoccerApp\obj\Debug\SoccerApp.pdb
+C:\Users\d_wick\Downloads\SoccerApppc\SoccerApp\SoccerApp\bin\Debug\SoccerApp.exe.config
+C:\Users\d_wick\Downloads\SoccerApppc\SoccerApp\SoccerApp\obj\Debug\SoccerApp.exe
+C:\Users\d_wick\Downloads\SoccerApppc\SoccerApp\SoccerApp\obj\Debug\SoccerApp.xml
+C:\Users\d_wick\Downloads\SoccerApppc\SoccerApp\SoccerApp\obj\Debug\SoccerApp.pdb
+C:\Users\d_wick\Downloads\SoccerApppc\SoccerApp\SoccerApp\bin\Debug\SoccerApp.exe
+C:\Users\d_wick\Downloads\SoccerApppc\SoccerApp\SoccerApp\bin\Debug\SoccerApp.pdb
+C:\Users\d_wick\Downloads\SoccerApppc\SoccerApp\SoccerApp\bin\Debug\SoccerApp.xml
+C:\Users\d_wick\Downloads\SoccerApppc\SoccerApp\SoccerApp\obj\Debug\SoccerApp.vbprojResolveAssemblyReference.cache
+C:\Users\d_wick\Downloads\SoccerApppc\SoccerApp\SoccerApp\obj\Debug\SoccerApp.Alert.resources
+C:\Users\d_wick\Downloads\SoccerApppc\SoccerApp\SoccerApp\obj\Debug\SoccerApp.PlayerNames.resources
+C:\Users\d_wick\Downloads\SoccerApppc\SoccerApp\SoccerApp\obj\Debug\SoccerApp.ScoreBoard.resources
+C:\Users\d_wick\Downloads\SoccerApppc\SoccerApp\SoccerApp\obj\Debug\SoccerApp.TeamCreation.resources
+C:\Users\d_wick\Downloads\SoccerApppc\SoccerApp\SoccerApp\obj\Debug\SoccerApp.Resources.resources
+C:\Users\d_wick\Downloads\SoccerApppc\SoccerApp\SoccerApp\obj\Debug\SoccerApp.vbproj.GenerateResource.Cache
+C:\Users\Philip Cope\Downloads\SoccerApppc\SoccerApppc\SoccerApp\SoccerApp\bin\Debug\SoccerApp.exe.config
+C:\Users\Philip Cope\Downloads\SoccerApppc\SoccerApppc\SoccerApp\SoccerApp\bin\Debug\SoccerApp.exe
+C:\Users\Philip Cope\Downloads\SoccerApppc\SoccerApppc\SoccerApp\SoccerApp\bin\Debug\SoccerApp.pdb
+C:\Users\Philip Cope\Downloads\SoccerApppc\SoccerApppc\SoccerApp\SoccerApp\bin\Debug\SoccerApp.xml
+C:\Users\Philip Cope\Downloads\SoccerApppc\SoccerApppc\SoccerApp\SoccerApp\obj\Debug\SoccerApp.vbprojResolveAssemblyReference.cache
+C:\Users\Philip Cope\Downloads\SoccerApppc\SoccerApppc\SoccerApp\SoccerApp\obj\Debug\SoccerApp.Alert.resources
+C:\Users\Philip Cope\Downloads\SoccerApppc\SoccerApppc\SoccerApp\SoccerApp\obj\Debug\SoccerApp.PlayerNames.resources
+C:\Users\Philip Cope\Downloads\SoccerApppc\SoccerApppc\SoccerApp\SoccerApp\obj\Debug\SoccerApp.ScoreBoard.resources
+C:\Users\Philip Cope\Downloads\SoccerApppc\SoccerApppc\SoccerApp\SoccerApp\obj\Debug\SoccerApp.TeamCreation.resources
+C:\Users\Philip Cope\Downloads\SoccerApppc\SoccerApppc\SoccerApp\SoccerApp\obj\Debug\SoccerApp.Resources.resources
+C:\Users\Philip Cope\Downloads\SoccerApppc\SoccerApppc\SoccerApp\SoccerApp\obj\Debug\SoccerApp.vbproj.GenerateResource.Cache
+C:\Users\Philip Cope\Downloads\SoccerApppc\SoccerApppc\SoccerApp\SoccerApp\obj\Debug\SoccerApp.vbproj.CoreCompileInputs.cache
+C:\Users\Philip Cope\Downloads\SoccerApppc\SoccerApppc\SoccerApp\SoccerApp\obj\Debug\SoccerApp.exe
+C:\Users\Philip Cope\Downloads\SoccerApppc\SoccerApppc\SoccerApp\SoccerApp\obj\Debug\SoccerApp.xml
+C:\Users\Philip Cope\Downloads\SoccerApppc\SoccerApppc\SoccerApp\SoccerApp\obj\Debug\SoccerApp.pdb
